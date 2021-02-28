@@ -1,1 +1,1 @@
-worked: node main.py
+worked: py main.py

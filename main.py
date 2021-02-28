@@ -24,4 +24,5 @@ RPC.update(
     large_text=None,
     small_text=None
 )
+
 input()
